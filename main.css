@@ -1,11 +1,10 @@
 html{
   background-color : #EDF2C5;
-  width:1260px;
-  height:940px;
 }
 .continer{
   width:940px;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 h1{
   font-family: Arial Black,Arial;
@@ -136,6 +135,8 @@ footer{
   height: 60px;
   background-color : #889C5B;
   margin-top: 34px;
+  margin-right: auto;
+  margin-left: auto;
 }
 footer p{
   font-family: Arial Black,Arial;
